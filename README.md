@@ -1,5 +1,7 @@
 # Court Management System
 
+This is Ziad's fork of [MaVoid-Team/court-management-system](https://github.com/MaVoid-Team/court-management-system).
+
 API for managing court bookings across multiple branches.
 
 ## API Documentation
@@ -9,25 +11,6 @@ API for managing court bookings across multiple branches.
 
 ---
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Built by [Ziad Ahmed](https://github.com/Ziad-NasrEldin) at [MaVoid](https://mavoid.com).
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[Website](https://mavoid.com) · [LinkedIn](https://linkedin.com/in/ziad-ahmed-634202332) · [GitHub](https://github.com/Ziad-NasrEldin)
